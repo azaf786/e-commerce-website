@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd41a2ab-ce63-492d-bded-72d85d7d384d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1Wo5REfGKgpnNJFgrme9ts63K2l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.phpOptions" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Fujitsu Backup\University\2nd Year\Web Design\xampp\htdocs\zashas" />
+      <recent name="C:\Users\ZAIN-\Documents\Uni\2nd Year\4.Web\xampp\htdocs\zashas" />
+      <recent name="D:\Fujitsu Backup\University\2nd Year\Web Design\xampp\htdocs\zashas\bootstrap" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd41a2ab-ce63-492d-bded-72d85d7d384d" name="Default Changelist" comment="" />
+      <created>1579803096607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579803096607</updated>
+      <workItem from="1579803099403" duration="91000" />
+      <workItem from="1579803279868" duration="865000" />
+      <workItem from="1579804195233" duration="10538000" />
+      <workItem from="1579894721493" duration="9637000" />
+      <workItem from="1579918250589" duration="103168000" />
+      <workItem from="1580402983792" duration="88225000" />
+      <workItem from="1580772727732" duration="208565000" />
+      <workItem from="1582002278827" duration="3939000" />
+      <workItem from="1582044825613" duration="14288000" />
+      <workItem from="1582075109463" duration="6121000" />
+      <workItem from="1582127010199" duration="13906000" />
+      <workItem from="1582156706647" duration="2000" />
+      <workItem from="1582157106053" duration="760000" />
+      <workItem from="1582243782502" duration="2327000" />
+      <workItem from="1582246860523" duration="3224000" />
+      <workItem from="1582266829652" duration="14218000" />
+      <workItem from="1582297398495" duration="12166000" />
+      <workItem from="1582312440621" duration="2222000" />
+      <workItem from="1582317967236" duration="192000" />
+      <workItem from="1582557089203" duration="6145000" />
+      <workItem from="1587692738444" duration="940000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581220161887">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1581220161887" />
+    <state x="395" y="191" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582052816231">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="395" y="191" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1582052816231" />
+    <state x="444" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1581969643487" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581645619063">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1581645619063" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1581223680800">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1581223680800" />
+    <state x="533" y="242" key="FileChooserDialogImpl" timestamp="1582307892233">
+      <screen x="0" y="0" width="1504" height="972" />
+    </state>
+    <state x="533" y="242" key="FileChooserDialogImpl/0.0.1504.972@0.0.1504.972" timestamp="1582307892233" />
+    <state x="674" y="240" key="NewPhpFileDialog" timestamp="1582052826877">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="674" y="240" key="NewPhpFileDialog/0.0.1280.689@0.0.1280.689" timestamp="1582052826877" />
+    <state x="758" y="313" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1581974216604" />
+    <state x="388" y="149" width="900" height="722" key="SettingsEditor" timestamp="1581974062915">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="388" y="149" width="900" height="722" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1581974062915" />
+    <state x="221" y="73" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1579803190057" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1581532274463">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1581532274463" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1580402273496">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1580402273496" />
+    <state x="178" y="46" width="1103" height="536" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582002957255">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="178" y="46" width="1103" height="536" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.689@0.0.1280.689" timestamp="1582002957255" />
+    <state x="200" y="60" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1581974872748" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.823@0.23.1440.823" timestamp="1580402500077" />
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1582557089586">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1582557089586" />
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1579803281975" />
+    <state x="375" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581613564968">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="375" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1581613564968" />
+    <state x="372" y="206" width="1110" height="953" maximized="true" key="dock-window-1" timestamp="1582297404437">
+      <screen x="0" y="0" width="1504" height="972" />
+    </state>
+    <state x="372" y="206" width="1110" height="953" maximized="true" key="dock-window-1/0.0.1504.972@0.0.1504.972" timestamp="1582297404437" />
+    <state x="369" y="114" width="859" height="639" key="find.popup" timestamp="1582564703326">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="328" y="51" width="763" height="638" key="find.popup/0.0.1280.689@0.0.1280.689" timestamp="1582140723064" />
+    <state x="369" y="114" width="859" height="639" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1582564703326" />
+    <state x="385" y="71" width="897" height="901" key="find.popup/0.0.1504.972@0.0.1504.972" timestamp="1582300898142" />
+    <state width="600" height="440" key="javadoc.popup" timestamp="1580844023199">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="600" height="440" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1580844023199" />
+    <state x="477" y="320" width="558" height="279" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1581734451333">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="477" y="320" width="558" height="279" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1440.900@0.0.1440.900" timestamp="1581734451333" />
+    <state x="402" y="221" key="run.anything.popup" timestamp="1582295105504">
+      <screen x="0" y="0" width="1504" height="972" />
+    </state>
+    <state x="342" y="157" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1582127883774" />
+    <state x="402" y="221" key="run.anything.popup/0.0.1504.972@0.0.1504.972" timestamp="1582295105504" />
+    <state x="385" y="210" key="run.anything.popup/0.23.1440.823@0.23.1440.823" timestamp="1581711613475" />
+    <state x="402" y="212" width="700" height="731" key="search.everywhere.popup" timestamp="1582309024543">
+      <screen x="0" y="0" width="1504" height="972" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1581712461779" />
+    <state x="402" y="212" width="700" height="731" key="search.everywhere.popup/0.0.1504.972@0.0.1504.972" timestamp="1582309024543" />
+    <state x="450" y="363" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1581878790809">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="450" y="363" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.900@0.0.1440.900" timestamp="1581878790809" />
+  </component>
+</project>

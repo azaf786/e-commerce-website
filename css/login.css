@@ -1,0 +1,50 @@
+.errors{
+    padding: 0px;
+    margin: 0px;
+    font-style: italic;
+    font-weight: bold;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.form-wrapper.auth button {
+    background: #00203FFF;
+    color: #ADEFD1FF;
+}
+.form-control:focus {
+    box-shadow: none;
+}
+
+.form-wrapper.auth .form-title {
+    color: #007EA7;
+}
+.form-wrapper
+{
+    display: block;
+    overflow: no-display;
+    margin: 10%;
+    border: 2px solid #80CED7;
+    border-radius: 5px;
+    padding: 20px 15px 0px 15px;
+}
+
+.form-wrapper {
+    margin: 50px auto 50px;
+    font-family: 'Lora', serif;
+    font-size: 1.09em;
+}
+
+.form-wrapper.login {
+    margin-top: 120px;
+}
+
+.home-wrapper {
+    margin-top: 150px;
+    border-radius: 5px;
+    padding: 10px;
+    border: 2px solid #ADEFD1FF;
+}
+
